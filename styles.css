@@ -7,8 +7,14 @@ body {
 }
 
 li {
-    line-height: 140%;
-    font-size: 1.6em;
+    font-size: 1.25em;
+    padding: 25px;
+    margin: 20px;
+    height: 150px;
+    line-height: 1.3em;
+    width: 300px;
+    display: inline-flex;
+    background-color: lightcoral;
 }
 
 .avatar {
@@ -16,10 +22,10 @@ li {
     padding-right: 10px;
 }
 
+
 h3 {
 padding-bottom: 40px;
 padding-top: 30px;
-vertical-align: middle;
 font-size: 1.7em;
 
 
@@ -28,9 +34,11 @@ font-size: 1.7em;
 h1 {
 
     text-align: center;
+    padding-right: 20px;
 }
 
 ul {
-    width: 85%;
-    text-align: left;
+    margin-left: 100px;
+
 }
+
