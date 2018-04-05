@@ -1,0 +1,36 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: lightgreen;
+    opacity: .8;
+    background-color: gray;
+    font-weight: 100;
+}
+
+li {
+    line-height: 140%;
+    font-size: 1.6em;
+}
+
+.avatar {
+    float: left;
+    padding-right: 10px;
+}
+
+h3 {
+padding-bottom: 40px;
+padding-top: 30px;
+vertical-align: middle;
+font-size: 1.7em;
+
+
+}
+
+h1 {
+
+    text-align: center;
+}
+
+ul {
+    width: 85%;
+    text-align: left;
+}
